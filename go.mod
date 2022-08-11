@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/caddyserver/caddy/v2 v2.4.5
-	github.com/caddyserver/certmagic v0.15.1 // indirect
+	github.com/caddyserver/certmagic v0.15.2 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/libdns/route53 v1.2.2
 	github.com/miekg/dns v1.1.43 // indirect
